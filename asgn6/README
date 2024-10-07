@@ -1,0 +1,37 @@
+Colin Ngo (cngo27)
+
+This program is called the minimally useful shell 2
+(mush2 for short). It's similar to the shell like
+/bin/sh or /bin/csh, but not all the functionality
+(hence, minimally useful). Unlike terminating programs, 
+^C will not kill the shell (woo we learned SIGINT). 
+Instead, ^D or typing "exit" will kill the shell, 
+just like /bin/sh. 
+make all and make mush2 both create the mush, but you
+would need to have libmush.a and mush.h
+make clean will remove mush2 program. 
+
+
+I noticed on the asgn6 pdf, after running sleep 20 and 
+interrupting with ^C, a new line is created for the 
+prompt, just like /bin/sh. I also created a new line
+after interrupting, but I did notice your mush2 program did 
+not create a new line (/home/pn-cs357/demos/mush2). Just
+difference in formatting, the functionality is what's
+important.
+Alas, the last assignment of this course has finally been
+completed. I submitted using my mush2 program, which is
+honestly pretty cool. 
+Did you know, you could call the program inside
+the program? It's possible to have the shell inside a shell,
+you wouldn't know which shell you are in though unless you
+keep count. It's pretty funny though, it's like recursion. 
+I wish I participated more in class or came to office hours,
+but who would've known all of your office hour times 
+conflicted with my classes. At least we talked a bit during 
+lab; I will remember your wedding requiring you to choose between 
+blue or pink napkins (lol). 
+Anyways, have fun grading this, we both get to enjoy our
+winter break after this. Maybe bake some cookies for you 
+and your family (I might bake some for myself too). 
+Happy holidays! 

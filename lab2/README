@@ -1,0 +1,29 @@
+Colin Ngo (cngo27)
+
+1a) char *cp;
+
+1b) char *ap[];
+
+1c) int **pp;
+
+2) Yes. int *p = &p;
+
+3) Within the for loop, "p != '\0'" will be comparing the literal address
+rather than the value that the pointer points to. To correct this, 
+changing that part to "*p != '\0'" will deference from the pointer and 
+will correcly compare the character in the string. 
+
+4) When passing an array into a function, the name of the array is a 
+pointer to the first element. You could use the name of an array like
+a pointer. 
+However, an array stores memory while a pointer is a variable containing
+an address to memory. The functions and type are completely different.
+
+5) The message in perror will not change because it has the 'const' attribute. 
+However, strerror does not have the 'const' attribute because the message
+may change. 
+
+6) January 19th, 2038. You could extend the overflow point into a 64-bit integer,
+but not all computers are 64-bit integer and will not work for those computers.
+
+7) There are 8 bytes in size_t. This is defined in <stdio.h>. 

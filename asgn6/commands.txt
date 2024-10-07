@@ -1,0 +1,68 @@
+
+
+
+
+ls | grep o | sort | wc
+ls | grep a | sort | wc
+ls | grep b | sort | wc
+ls | grep B | sort | wc
+ls Makefile mush2 > file1
+cat file1
+cat < file1 > file2
+cat file2
+ls lmao > file3
+ls asdklf > file4
+ls akldjflkadsjf > file5
+ls 1930ajdflkd > file6
+ls aKLSJDFlsvb > file7
+echo a b c d e f g h i j
+./foo
+echo "hi" > foo
+cat foo
+./foo
+ls -l foo
+rm foo
+cd foo
+ls > foo
+
+
+cd foo
+rm foo
+cat Makefile
+pwd
+ls
+mkdir foo
+
+
+cd foo
+pwd
+cd
+pwd
+cd csc357/asgn6
+pwd
+ls
+cat foo
+rm foo
+rmdir foo
+
+
+cat file1
+rm file1
+cat file2
+rm file2
+cat file3
+rm file3
+cat file4
+
+
+rm file4
+cat file5
+rm file5
+cat file6
+rm file6
+cat file7
+rm file7
+ls
+
+sleep 3
+pwd

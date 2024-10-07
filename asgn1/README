@@ -1,0 +1,9 @@
+Colin Ngo (cngo27)
+
+
+gcc -o detab.out -Wall detab.c
+./detab.out
+
+
+Please leave constructive criticisms to improve readibility and organization. 
+Perhaps my if statements could be clearer?

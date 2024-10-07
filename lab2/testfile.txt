@@ -1,0 +1,15 @@
+testing
+1
+2
+3
+hello world!
+a
+a
+a
+oops
+This line is over 32 characters line, right? I hope so so I can test fgets.
+This line is over 32 characters line, right? I hope so so I can test fgets.
+hi
+hi
+abc
+yay!

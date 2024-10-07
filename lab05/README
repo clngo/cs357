@@ -1,0 +1,22 @@
+Colin Ngo (cngo27)
+
+To create the file, type: make mypwd 
+or you could also type: make all
+They both do the same thing; create the file. 
+To run the file, type ./mypwd
+To remove the file, type: make clean
+This will print your current working directory!
+My code works, if it doesn't, then so does pwd,
+meaning, you probably broke it lol.
+
+If you can't grade, I'll accept cookies. I really
+like chocolate chip and I haven't had them in a long
+time. Fortunately I'm going home for Thanksgiving break,
+maybe you can bake cookies for yourself and your family 
+too. Anyways, there's a lot of if statements to check
+errors, so hopefully I get good grade for that. 
+Also, I didn't make my function recursive, so
+I had to code my string so it appends to the front,
+which isn't really what appending means...
+In any case, it works, but in a very unique way.
+Thank you. 

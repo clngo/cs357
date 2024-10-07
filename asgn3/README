@@ -1,0 +1,17 @@
+Colin Ngo (cngo27) 
+
+When you run the program, it runs :).
+Seriously, you could put in an input with 
+no output for hencode and it'll still work!
+But... why? You can't even read it correctly.
+Having the bits in stdout is just unreadable.
+Well, just like in all code, it just works because
+why not? Hdecode also works to decompress the file.
+Make sure you have both commands for it. Again,
+would be weird to have the bits in stdout...
+even though it's possible.
+
+Responding to your last comment on lab03, I did
+listen to your advice and to reboot. And reboot
+my brain as in I need some sleep now. Going to 
+decompress all that compressed gunk from this week.

@@ -1,0 +1,29 @@
+Colin Ngo (cngo27)
+
+To make the file, type: make mytalk
+or you could also type: make all
+They both do the same thing; create the program.
+If you want to turn on verbose, accept, or disable 
+windows, you could use -v, -a, -N (respectfully).
+These won't change the function of how each user talks
+to each other, just optional features to have for fun.
+Guess what? Mytalk talks! Well, specifically, it 
+can you communicate to another person on another
+server. You technically can't talk to yourself 
+unless your on both ends of the server, which...
+well, you'd only practically want to do that if you're
+debugging (like myself). Even if the other person 
+on the other end disconnects, the user will still be
+connected to read the messages, just in case you still
+wanted to read. My Mytalk works just like pnico Mytalk,
+so you could use either program and you can... talk!
+
+To be fair, this is one of the more interesting, if not
+the most interesting assignments I've had in this class.
+Besides the fact I could actually show it to my roomies,
+I really did feel like I learned a lot. Too bad I feel
+like I'm probably doing a lot of work too fast to really
+learn everything, but at least I'm still learning :)
+I also hope you don't feel too stressed out like I am;
+everyone's in this together you know? Anyways, my program
+works! I even tested the entire Bee Movie script.
